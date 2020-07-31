@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm software developer. :computer: I work with ERPs Odoo and Openbravo but I can do many more things and I like databases.
+
+I will practice with big data and analysis of data I will share my progress here. :fire:
+
+I love my brain :brain: becouse I can lear software very fast with numbers and algorithms also I can draw faces.
+
+I speack spanish but I write in english becouse I want to learn, If you can see a mistake, please, tell me.
+
+If you wanna know about me you can follow me in Instagram :camera: [rodneyj3](https://www.instagram.com/rodneyj3/ "Rodney's Istagram")
+
 
 <!--
 **rodneyj3214/rodneyj3214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
